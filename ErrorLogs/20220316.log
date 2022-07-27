@@ -1,0 +1,6 @@
+13:32:13 9148 (100743) - Procedure or function 'sp_UserProfile' expects parameter '@pUserParamsx', which was not supplied.
+13:32:16 7757 (567548) - Procedure or function 'sp_UserProfile' expects parameter '@pUserParamsx', which was not supplied.
+13:32:18 4956 (600670) - Procedure or function 'sp_UserProfile' expects parameter '@pUserParamsx', which was not supplied.
+13:32:16 7757 (567548) - Procedure or function 'sp_UserProfilex' expects parameter '@pUserParamsx', which was not supplied.
+16:56:50 3678 (120176) - Can not add property UserName to Newtonsoft.Json.Linq.JObject. Property with the same name already exists on object.
+16:58:08 1117 (752271) - Can not add property UserName to Newtonsoft.Json.Linq.JObject. Property with the same name already exists on object.

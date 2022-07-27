@@ -1,0 +1,175 @@
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.AssemblyInfoInputs.cache
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.AssemblyInfo.cs
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.csproj.CoreCompileInputs.cache
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cs
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cache
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\appsettings.Development.json
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\appsettings.json
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\EbiApi.exe
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\EbiApi.deps.json
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\EbiApi.runtimeconfig.json
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\EbiApi.runtimeconfig.dev.json
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\EbiApi.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\ref\EbiApi.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\EbiApi.pdb
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\staticwebassets\EbiApi.StaticWebAssets.Manifest.cache
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\scopedcss\bundle\EbiApi.styles.css
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.RazorTargetAssemblyInfo.cache
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.csproj.CopyComplete
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.dll
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\ref\EbiApi.dll
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.pdb
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.genruntimeconfig.cache
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\others\DotNetCore\API\EbiApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\others\DotNetCore\API\EbiApi\obj\Debug\net5.0\EbiApi.csproj.AssemblyReference.cache
+C:\www\EbiApi\bin\Debug\net5.0\appsettings.Development.json
+C:\www\EbiApi\bin\Debug\net5.0\appsettings.json
+C:\www\EbiApi\bin\Debug\net5.0\EbiApi.exe
+C:\www\EbiApi\bin\Debug\net5.0\EbiApi.deps.json
+C:\www\EbiApi\bin\Debug\net5.0\EbiApi.runtimeconfig.json
+C:\www\EbiApi\bin\Debug\net5.0\EbiApi.runtimeconfig.dev.json
+C:\www\EbiApi\bin\Debug\net5.0\EbiApi.dll
+C:\www\EbiApi\bin\Debug\net5.0\EbiApi.pdb
+C:\www\EbiApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\www\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\www\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\www\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\www\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\www\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\www\EbiApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\www\EbiApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\www\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\www\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\www\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\www\EbiApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\www\EbiApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\www\EbiApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\www\EbiApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\www\EbiApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\www\EbiApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\www\EbiApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.csproj.AssemblyReference.cache
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.AssemblyInfoInputs.cache
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.AssemblyInfo.cs
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.csproj.CoreCompileInputs.cache
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\www\EbiApi\obj\Debug\net5.0\scopedcss\bundle\EbiApi.styles.css
+C:\www\EbiApi\obj\Debug\net5.0\staticwebassets\EbiApi.StaticWebAssets.Manifest.cache
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.RazorTargetAssemblyInfo.cache
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.csproj.CopyComplete
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.dll
+C:\www\EbiApi\obj\Debug\net5.0\refint\EbiApi.dll
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.pdb
+C:\www\EbiApi\obj\Debug\net5.0\EbiApi.genruntimeconfig.cache
+C:\www\EbiApi\obj\Debug\net5.0\ref\EbiApi.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\appsettings.json
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\EbiApi.exe
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\EbiApi.deps.json
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\EbiApi.runtimeconfig.json
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\EbiApi.runtimeconfig.dev.json
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\EbiApi.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\EbiApi.pdb
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EBI-USER\Desktop\EbiApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.csproj.AssemblyReference.cache
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.AssemblyInfoInputs.cache
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.AssemblyInfo.cs
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.csproj.CoreCompileInputs.cache
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\scopedcss\bundle\EbiApi.styles.css
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\staticwebassets\EbiApi.StaticWebAssets.Manifest.cache
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.RazorTargetAssemblyInfo.cache
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.csproj.CopyComplete
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.dll
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\refint\EbiApi.dll
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.pdb
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\EbiApi.genruntimeconfig.cache
+C:\Users\EBI-USER\Desktop\EbiApi\obj\Debug\net5.0\ref\EbiApi.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\appsettings.json
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\EbiApi.exe
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\EbiApi.deps.json
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\EbiApi.runtimeconfig.json
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\EbiApi.runtimeconfig.dev.json
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\EbiApi.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\EbiApi.pdb
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.csproj.AssemblyReference.cache
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.AssemblyInfoInputs.cache
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.AssemblyInfo.cs
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.csproj.CoreCompileInputs.cache
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\scopedcss\bundle\EbiApi.styles.css
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\staticwebassets\EbiApi.StaticWebAssets.Manifest.cache
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.RazorTargetAssemblyInfo.cache
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.csproj.CopyComplete
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\refint\EbiApi.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.pdb
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\EbiApi.genruntimeconfig.cache
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\obj\Debug\net5.0\ref\EbiApi.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EBI-USER\Desktop\Doxtrax Web API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
